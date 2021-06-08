@@ -1,0 +1,6 @@
+.dashboard-screen {
+  position: relative;
+  margin: auto;
+  height: 500px;
+  max-height: 500px !important;
+}
